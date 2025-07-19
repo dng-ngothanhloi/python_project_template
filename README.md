@@ -10,7 +10,7 @@ Supports:
 
 1. Clone this repo
 ```shell
-git clone https://github.com/tiepvupsu/python_project_template <your_project_name>
+git clone https://github.com/dng-ngothanhloi/python_project_template <your_project_name>
 ```
 
 2. Change git remote
